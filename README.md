@@ -1,13 +1,10 @@
-### Hi, I'm Ricardo Junior 👋
+## Hi, I'm Ricardo Junior 👋
 
-<!--
-**ricardodev10/ricardodev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Front-End Developer
+#### Front-End Developer
 
 ### ⚡ About me:
 
-- 📫 How to reach me: mailto:ricardodev10@yahoo.com
+- 📫 How to reach me: ricardodev10@yahoo.com
 - 🚀 Student at Rocketseat
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: 30 years old, married
@@ -20,3 +17,18 @@ Front-End Developer
 
 ### 🛠  Tech Stacks:
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### 💬 Contact me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardodev10/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0)
+
+### ⚙️  GitHub Analytics
+
+<a href="https://github.com/ricardodev10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardodev10" />
+</a>
+<a href="https://github.com/ricardodev10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodev10&layout=compact" />
+</a>
