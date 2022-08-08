@@ -5,14 +5,18 @@
 
 Front-End Developer
 
-Here are some ideas to get you started:
+### ⚡ About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: mailto:ricardodev10@yahoo.com
+- 🚀 Student at Rocketseat
+- 🌱 I’m currently learning JavaScript
+- ⚡ Fun fact: 30 years old, married
+
+### 📊 Goals 2022:
+
+- 📂 Expand my portfolio
+- 🤝 I'm looking to collaborate on projects open source
+- 🔭 Looking for my first opportunity in programming
+
+### 🛠  Tech Stacks:
+
