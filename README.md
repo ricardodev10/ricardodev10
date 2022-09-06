@@ -29,4 +29,4 @@
 - 🤝 I'm looking to collaborate on projects open source
 - ✨ Never stop learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,figma,git,github,vscode)](https://skillicons.dev)
