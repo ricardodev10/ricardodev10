@@ -10,8 +10,8 @@
 ### 🛠  Tech Stacks:
 
 - 💥 Main language: `JavaScript`.
-- 🎉 Frontend: `JavaScript`, `CSS3`, `HTML5`, `🚧 Reactjs`.
-- 📡 Backend:  `🚧 Nodejs`.
+- 🎉 Frontend: `JavaScript`, `CSS3`, `HTML5`, `🚧 Reactjs`, `🚧 TypeScript`.
+- 📡 Backend:  `🚧 Nodejs`, `🚧 Java`, `🚧 SQL`.
 - 🎨 Layout design: `Figma`.
 - 📦️ Version code control: `Git & Github`.
 - 🔨 Tools: `VsCode`.
