@@ -15,7 +15,6 @@
 - 🎨 Layout design: `Figma`.
 - 📦️ Version code control: `Git & Github`.
 - 🔨 Tools: `VsCode`.
-- 🌎 I´m mostly active within the `Rocketseat Community`.
 
 ### 💬 Contact me
 
