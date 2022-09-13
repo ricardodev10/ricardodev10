@@ -28,4 +28,4 @@
 
 ### 🛠 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,figma,git,github,vscode)](https://skillicons.dev)
