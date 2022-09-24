@@ -3,7 +3,7 @@
 ### ⚡ About me:
 
 - 🔥 Front-end Developer.
-- 🚀 Student at [Rocketseat](https://www.rockeseat.com.br/) and [Unicesumar University](https://www.unicesumar.edu.br/english/)
+- 🚀 Student at [Rocketseat](https://www.rockeseat.com.br/) and [UniCesumar University](https://www.unicesumar.edu.br/english/)
 - 🔭 Looking for my first opportunity in programming.
 - 🌱 Fun fact: 29 years old, married.
 
