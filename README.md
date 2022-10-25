@@ -13,7 +13,7 @@
 - 📡 Backend:  `Node.js`.
 - 📦️ Version code control: `Git & Github`.
 - 🔨 Tools: `VsCode`.
-- 🎨 Layout design: `Figma`.
+- 🎨 Layout design: `Figma`
 
 ### ✨ Learning is continuous and there will always be a next level.
 
