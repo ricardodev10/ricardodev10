@@ -5,26 +5,23 @@
 ![](https://komarev.com/ghpvc/?username=ricardodev10&color=006bed)
 
 <p align="left">
-  ⚡ <strong>About me:</strong> Front-end Developer. Student at [Rocketseat](https://www.rockeseat.com.br/) and [UniCesumar University](https://www.unicesumar.edu.br/english/)
+  ⚡ <strong>About me:</strong> Front-end Developer, student at <a href="https://www.rockeseat.com.br/">Rocketseat</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
 </p>
 
 <p align="left">
-  🛠  <strong>Technologies:</strong> `HTML5`, `CSS3`, `JavaScript`, `TypeScript`, `React.js`, `Node.js`.
+  🛠  <strong>Technologies:</strong> HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js.
 </p>
 
 <p align="left">
-  🔨 <strong>Tools:</strong> `Git & Github`, `VsCode`, `Figma`.
+  🔨 <strong>Tools:</strong> Git & Github, VsCode, Figma.
 </p>
 
 <p align="left">
-  💌 <strong>Contact me:</strong> ⤵️
-  [![gmail](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=yahoo&logoColor=red)](mailto:ricardodev10@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardodev10/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0)
+  💌 <strong>Contact me:</strong> <a href="mailto:ricardodev10@yahoo.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=yahoo&logoColor=red"/></a> <a href="https://www.linkedin.com/in/ricardodev10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git,github,vscode,figma)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git,github,vscode,figma"/></a>
 </p>
 
 <div align="center">
