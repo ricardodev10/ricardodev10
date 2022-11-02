@@ -29,12 +29,6 @@
 <p align="left">
   ✨ <strong>Learning is continuous and there will always be a next level.</strong>
 </p>
-
-<div align="center">
-  <a href="https://github.com/ricardodev10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodev10&layout=compact&langs_count=7&theme=dracula&cache_seconds=2300"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardodev10&show_icons=true&theme=dracula&cache_seconds=2300"/>
-</div>
   
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git,github,vscode,figma"/></a>
