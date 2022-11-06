@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Ricardo Junior 👋 </h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=140&section=header&text=Hi%20there,%20I'm%20Ricardo%20Junior%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador">
 
@@ -29,6 +29,11 @@
 <p align="left">
   ✨ <strong>Learning is continuous and there will always be a next level.</strong>
 </p>
+
+<div align="center" >  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardodev10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="ricardodev10-github-stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodev10&layout=compact&hide_border=true&title_color=FFF&text_color=00bfbf&bg_color=0d1117" />
+</div>
   
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git,github,vscode,figma"/></a>
