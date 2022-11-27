@@ -40,5 +40,5 @@
 </p>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricardodev10&color=006bed"/>
+  <img src="https://komarev.com/ghpvc/?username=ricardodev10&color=006bed" />
 </p>
