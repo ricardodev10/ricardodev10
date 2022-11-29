@@ -23,7 +23,7 @@
 <p align="left">
   💌 <strong>Contact me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ricardodev10@yahoo.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=yahoo&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ricardodev10/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-282A36?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ricardodev10@yahoo.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=yahoo&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ricardodev10/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-282A36?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="left">
