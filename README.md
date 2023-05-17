@@ -11,7 +11,7 @@
 <p align="left">
   🚀 <strong>Technologies:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, PHP.
 </p>
 
 <p align="left">
@@ -36,7 +36,7 @@
 </div>
   
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,git,github,vscode,figma"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,php,git,github,vscode,figma"/></a>
 </p>
   
 <p align="center">
