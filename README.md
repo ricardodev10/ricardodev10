@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end Developer, student at <a href="https://www.rockeseat.com.br/">Rocketseat</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Development Intern at <a href="https://www.prodemge.gov.br/index.php">PRODEMGE</a>, student at <a href="https://www.rockeseat.com.br/">Rocketseat</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
 </p>
 
 <p align="left">
