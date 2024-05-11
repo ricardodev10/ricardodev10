@@ -5,19 +5,19 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer Intern at <a href="https://www.prodemge.gov.br/index.php">PRODEMGE</a>, student at <a href="https://www.rockeseat.com.br/">Rocketseat</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Management Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
 </p>
 
 <p align="left">
   🚀 <strong>Technologies:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, PHP.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, SQL, HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, PHP.
 </p>
 
 <p align="left">
   🛠 <strong>Tools:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git & Github, VsCode, Figma.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visual Studio, Power BI, Excel, VsCode, Figma, Git & Github.
 </p>
 
 <p align="left">
@@ -36,7 +36,7 @@
 </div>
   
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,styledcomponents,php,bootstrap,mysql,git,github,vscode,figma"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,visualstudio,figma,html,css,js,typescript,react,nodejs,php,bootstrap"/></a>
 </p>
   
 <p align="center">
