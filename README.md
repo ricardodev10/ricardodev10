@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Management Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
 </p>
 
 <p align="left">
