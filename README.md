@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.unicesumar.edu.br/english/">UniCesumar University</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.pucminas.br/destaques/Paginas/default.aspx">PUC Minas University</a>
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/ricardodev10
 </a>
 
-<!-- GitFolio:start
+
 {
   "gitfolio": "on",
   "name": "Ricardo Junior",
@@ -154,5 +154,5 @@ Experiência em construção, automação e manutenção de indicadores de perfo
   }
 ]
 }
-GitFolio:end -->
+
   
