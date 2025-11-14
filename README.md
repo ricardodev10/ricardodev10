@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a>, student at <a href="https://www.datascienceacademy.com.br/">Data Science Academy</a> and <a href="https://www.pucminas.br/destaques/Paginas/default.aspx">PUC Minas University</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a> & Specializing in Data Engineering
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@
 <p align="left">
   💌 <strong>Contact me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ricardodev10@yahoo.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=yahoo&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ricardodev10/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://api.whatsapp.com/send/?phone=%2B5531986161040&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-282A36?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ricardodev10/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ricardodev10@yahoo.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=yahoo&logoColor=white"/></a> 
 </p>
 
 <p align="left">
