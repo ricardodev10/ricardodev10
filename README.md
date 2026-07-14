@@ -5,7 +5,7 @@
 <p align="left">
   ⚡ <strong>About me:</strong>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst at <a href="https://www.aec.com.br/">AeC</a> & Specializing in Data Engineering
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst & Specializing in Data Engineering.
 </p>
 
 <p align="left">
@@ -29,11 +29,6 @@
 <p align="left">
   ✨ <strong>Learning is continuous and there will always be a next level.</strong>
 </p>
-
-<div align="center" >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardodev10&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="ricardodev10-github-stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodev10&layout=compact&hide_border=true&title_color=FFF&text_color=00bfbf&bg_color=0d1117" />
-</div>
   
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,visualstudio,figma,html,css,js,typescript,react,nodejs,php,bootstrap"/></a>
